@@ -1,6 +1,32 @@
 In week1, we will be using following very basic git commands
+
 git init
 git add
 git status
 git commit
 git log
+
+1. git init :
+
+--Navigate into the working directory and do "git init".
+--It will initialize empty "local" git repository in your working directory.
+
+2. git add :
+
+-- To add files/folders to staging area, do "git add file1 file2" or 
+"git add folder1 folder2" or to add all files/folders at once, do "git add ."
+--This will add your files/folders to staging area and not remote repository.
+
+3. git status :
+
+-- To check status of your files(removed, modified,added etc) that you have 
+added to staging area.
+
+4. git commit :
+ 
+--now after making sure that you want to add all the files from staging area 
+into remote repo, command is "git commit -m "short mssg" in present tense preferably".
+
+5. git log :
+
+--to see your commit messages and details. 
