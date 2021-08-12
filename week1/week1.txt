@@ -1,0 +1,6 @@
+In week1, we will be using following very basic git commands
+git init
+git add
+git status
+git commit
+git log
