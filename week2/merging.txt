@@ -1,0 +1,10 @@
+Merging:
+
+before merging a branch with master branch, commit changes in that branch and after that 
+check out master branch.
+
+To do fast forward merge:
+--"git merge <branchname>"
+
+To do merge with commit:
+--"git merge --no-ff <branchname>"
