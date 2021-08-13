@@ -1,3 +1,5 @@
+Branching:
+
 To create a branch :
 -- "git branch <branchname>"
 
