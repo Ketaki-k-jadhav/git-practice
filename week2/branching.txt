@@ -1,0 +1,11 @@
+To create a branch :
+-- "git branch <branchname>"
+
+To start working on that branch :
+--"git checkout <branchname>"
+
+To do above steps in single command :
+--"git checkout -b <branchname>"
+
+To delete a branch permanently:
+--"git branch -D <branchname>"
